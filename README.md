@@ -1,5 +1,6 @@
-# DL-6-Spam-Email-Detection-Using-TensorFlow
-This project demonstrates how to build a deep learning model to classify emails as **Spam** or **Ham** (Not Spam) using TensorFlow and Python. The workflow covers data loading, pre-processing, balancing, visualization, model building, training, and evaluation.
+# Spam Email Detection Using TensorFlow
+
+This project demonstrates how to build a deep learning model to classify emails as **Spam** or **Ham** (Not Spam) using TensorFlow and Python. The workflow covers data loading, preprocessing, balancing, visualization, model building, training, and evaluation.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -106,7 +107,7 @@ pip install pandas numpy matplotlib seaborn nltk wordcloud tensorflow scikit-lea
 ---
 
 **Author:**
-- John David
+- Your Name
 
 **License:**
 - MIT
