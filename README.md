@@ -109,8 +109,9 @@ pip install pandas numpy matplotlib seaborn nltk wordcloud tensorflow scikit-lea
 ---
 
 **Author:**
-- Your Name
+- John David
 
 **License:**
 - MIT
+
 
