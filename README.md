@@ -2,6 +2,8 @@
 
 This project demonstrates how to build a deep learning model to classify emails as **Spam** or **Ham** (Not Spam) using TensorFlow and Python. The workflow covers data loading, preprocessing, balancing, visualization, model building, training, and evaluation.
 
+![download](https://github.com/user-attachments/assets/11edcb5a-2667-4b2f-8277-b722269a0d1e)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
@@ -111,3 +113,4 @@ pip install pandas numpy matplotlib seaborn nltk wordcloud tensorflow scikit-lea
 
 **License:**
 - MIT
+
